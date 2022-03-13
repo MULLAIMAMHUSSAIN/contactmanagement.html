@@ -1,0 +1,26 @@
+<form method='get'>
+ Email:<br><input name='text' value=' '><br>
+Password:<br><input type name='text' value='   '><br>
+<button type="button">signin</button>
+<a href="#">forgot your password</a>
+</form>
+
+
+<form method='get'>
+ Email:<br><input name='text' value='   '><br>
+Password:<br><input type name='text'
+value='    '><br>
+Secret:<br><input type name='text'
+value='   '><br>
+<button type="button">signup</button>
+<a href="#">already have an account?signin</a>
+</form>
+
+
+<form method='get'>
+Name:<br><input type name='text' value='   '><br>
+Ph.no:<br><input type name='text' value='    '><br>
+Email:<br><input type name='text'  value='   '><br>
+<button type="button">add contacts</button>
+<a href="#">my contacts</a>
+</form>
